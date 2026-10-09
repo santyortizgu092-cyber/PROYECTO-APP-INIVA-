@@ -1,0 +1,9 @@
+<svg width="120" height="120" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo transparente implícito (sin rect de fondo) -->
+  
+  {/* Ícono de escudo / acceso y verificación de horario */}
+  <path d="M100 20L150 45V95C150 130 125 160 100 175C75 160 50 130 50 95V45L100 20Z" fill="#003366" stroke="#003366" stroke-width="4" stroke-linejoin="round"/>
+  
+  {/* Check de asistencia / acceso exitoso */}
+  <path d="M75 100L92 117L130 75" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "INIVA",
-    "slug": "INIVA",
+    "name": "AsisApp Unicaribe",
+    "slug": "asisapp-unicaribe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "iniva",
+    "scheme": "asisapp",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
